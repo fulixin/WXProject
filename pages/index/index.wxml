@@ -9,6 +9,5 @@
   </view>
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
-    <text>这是测试页面</text>
   </view>
 </view>
