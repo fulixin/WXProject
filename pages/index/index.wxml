@@ -9,6 +9,9 @@
   </view>
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
-    <text>继续测试</text>
+    <view>
+      <text>Hello {{name}}</text>
+      <button bindtap="changename">change name</button>
+    </view>
   </view>
 </view>
